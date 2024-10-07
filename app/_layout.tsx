@@ -1,9 +1,12 @@
-import { Stack } from "expo-router";
+// _layout.tsx
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import MainTabNavigator from '../components/navigation/MainTabNavigator'; // 네비게이터 파일 가져오기
 
-export default function RootLayout() {
+export default function Layout() {
   return (
-    <Stack>
-      <Stack.Screen name="index" />
-    </Stack>
+    <NavigationContainer>
+      <MainTabNavigator />
+    </NavigationContainer>
   );
 }
