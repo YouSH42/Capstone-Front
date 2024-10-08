@@ -1,11 +1,11 @@
-// AIChatScreen 컴포넌트
+// app/my-page.tsx
 import React from 'react';
 import { View, Text } from 'react-native';
 
-export default function AIChatScreen() {
+export default function MyPageScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>AI 채팅</Text>
+      <Text>마이페이지</Text>
     </View>
   );
 }

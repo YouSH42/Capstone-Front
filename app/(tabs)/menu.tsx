@@ -1,4 +1,4 @@
-// MenuScreen 컴포넌트
+// app/menu.tsx (각 화면을 개별적으로 정의합니다.)
 import React from 'react';
 import { View, Text } from 'react-native';
 

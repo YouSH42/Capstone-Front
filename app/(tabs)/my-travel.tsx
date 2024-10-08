@@ -1,11 +1,11 @@
-// TravelRecommendationScreen 컴포넌트
+// app/my-travel.tsx
 import React from 'react';
 import { View, Text } from 'react-native';
 
-export default function TravelRecommendationScreen() {
+export default function MyTravelScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>여행지 추천</Text>
+      <Text>내 여행</Text>
     </View>
   );
 }
