@@ -56,3 +56,4 @@ Join our community of developers creating universal apps.
 ### 개발 현황
 
 - 10/8 네이게이션 바 구현 완료 expo-router를 사용하여서 만들었음 관련 문서 참고하여 이해할 것
+- github정리를 위한 수정 줄
