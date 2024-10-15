@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 개발 환경
+- npm -v 10.7.0
+- npx -v 10.7.0
+
+### 개발 현황
+
+- 10/8 네이게이션 바 구현 완료 expo-router를 사용하여서 만들었음 관련 문서 참고하여 이해할 것
